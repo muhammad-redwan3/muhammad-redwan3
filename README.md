@@ -14,4 +14,4 @@
 -->
 - 🔭 I’m currently working on PHP with Laravel 
 - 🌱 I’m currently learning anything related to PHP
-- ⚡ I graduated from the computer programming department of Harran University with an average of 3.27, I am still learning
+- ⚡ I graduated from the computer programming department of Harran University with an average of 3.27/4, I am still learning
