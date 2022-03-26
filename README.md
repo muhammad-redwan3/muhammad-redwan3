@@ -1,9 +1,7 @@
-                                                       Hello World 👋 I'm Muhammed
+                                                  Hello World 👋 I'm Muhammed
 
-<!--
-**muhammad-redwan3/muhammad-redwan3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on php with laravel 
 - 🌱 I’m currently learning anything related php
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on PHP with Laravel 
+- 🌱 I’m currently learning anything related to PHP
+- ⚡ I graduated from the computer programming department of Harran University with an average of 3.27, I am still learning
